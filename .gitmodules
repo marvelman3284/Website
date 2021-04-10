@@ -1,6 +1,3 @@
-[submodule "portfolio"]
-	path = portfolio
-	url = https://github.com/marvelman3284/portfolio.git
 [submodule "AI-Chat-Bot"]
 	path = AI-Chat-Bot
 	url = https://github.com/marvelman3284/AI-Chat-Bot
