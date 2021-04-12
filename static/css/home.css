@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&display=swap');
+
+body {
+  background-color: #1A1A23;
+}
+
+a {
+  color: inherit;
+}
+
+.buttons {
+  position: absolute;
+  top: 30px;
+  color: #E5E7E6;
+}
+
+.buttons .home {
+  position: absolute;
+  left: 30px;
+}
+
+.buttons .portfolio {
+  position: absolute;
+  left: 1675px;
+}
+
+.buttons .blog {
+  position: absolute;
+  left: 1600px;
+}
+
+.buttons .contact {
+  position: absolute;
+  left: 1500px;
+}
+
+.header {
+  width: 882px;
+  height: 187px;
+  position: absolute;
+  top: 191px;
+  bottom: 702px;
+  left: 519px;
+  right: 519px;
+  background: #353535;
+  border-radius: 20px;
+}
+
+.header h1{
+  position: absolute;
+  width: 882px;
+  height: 100px;
+
+
+  font-family: Fira Code;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 84px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+
+  color: #FFE66D;
+}
