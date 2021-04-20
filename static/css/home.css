@@ -26,17 +26,20 @@ a {
 
 .buttons .portfolio {
   position: absolute;
-  left: 1675px;
+  left: 1700px;
+  color: #E65F5C;
 }
 
 .buttons .blog {
   position: absolute;
   left: 1600px;
+  color: #2191FB;
 }
 
 .buttons .contact {
   position: absolute;
   left: 1500px;
+  color: #00916E;
 }
 
 .header {
@@ -68,4 +71,32 @@ a {
   text-transform: capitalize;
 
   color: #FFE66D;
+}
+
+.body {
+  position: absolute;
+  width: 882px;
+  height: 500px;
+  top: 425px;
+  bottom: 202px;
+  left: 519px;
+  right: 519px;
+  background: #353535;
+  border-radius: 20px;
+}
+
+.body h1 {
+  position: absolute;
+  padding: 10px 10px 10px 100px;
+
+
+  text-align: center;
+  font-family: 'JetBrains Mono', monospace;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  display: flex;
+  align-items: center;
+  color: #519e8a;
+
 }
